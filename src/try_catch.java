@@ -3,6 +3,7 @@ public class try_catch {
         int i = 0;
         int j = 10;
         try{
+            //if error cames you cannot hanfle it you can only handle exceptions
             j  = 10 /i;
             //if exceptoin got here it will direectly jump to cathc block
             System.out.println(j);
