@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="try and catch block  in java">
+    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="multiple catch blocks and priority">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.Main.executor": "Run",
     "Application.date_time.executor": "Run",
     "Application.exception2.executor": "Run",
+    "Application.exception3.executor": "Run",
     "Application.funs.executor": "Run",
     "Application.try_catch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -91,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728821715972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="multiple catch blocks and priority">
+      <option name="closed" value="true" />
+      <created>1728822743163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728822743163</updated>
+    </task>
+    <task id="LOCAL-00005" summary="multiple catch blocks and priority">
+      <option name="closed" value="true" />
+      <created>1728823152341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728823152341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first git commit" />
     <MESSAGE value="try and catch block  in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="try and catch block  in java" />
+    <MESSAGE value="multiple catch blocks and priority" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiple catch blocks and priority" />
   </component>
 </project>
