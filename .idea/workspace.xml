@@ -50,6 +50,7 @@
     "Application.Main.executor": "Run",
     "Application.date_time.executor": "Run",
     "Application.funs.executor": "Run",
+    "Application.try_catch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
