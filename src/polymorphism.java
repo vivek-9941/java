@@ -3,8 +3,10 @@
     public abstract void stop() ;
 
 }
-
-class bmw extends car{
+//in interface the class is abstract and the methods are by default public abstract.
+//we cannot  instantiate the interface and abstract class
+//here the finsl dsignifies that the class canneot be further inherited
+final class bmw extends car{
 //    @Override
     public void start() {
         System.out.println("bmw started");

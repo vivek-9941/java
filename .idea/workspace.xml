@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="packages in javaa implementation">
+    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="abstract classes / base class pointer _ derived class object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "Application.exception3.executor": "Run",
     "Application.funs.executor": "Run",
     "Application.implemenation_of_packag.executor": "Run",
+    "Application.polymorphism.executor": "Run",
     "Application.try_catch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -125,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729256725534</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="abstract classes / base class pointer _ derived class object">
+      <option name="closed" value="true" />
+      <created>1729257686400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729257686400</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +155,7 @@
     <MESSAGE value="multiple catch blocks and priority" />
     <MESSAGE value="exception handling using throw" />
     <MESSAGE value="packages in javaa implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="packages in javaa implementation" />
+    <MESSAGE value="abstract classes / base class pointer _ derived class object" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract classes / base class pointer _ derived class object" />
   </component>
 </project>
