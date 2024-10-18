@@ -12,5 +12,17 @@ public class Main {
         for(int i = 0 ; i< 5; i++){
             System.out.println(arr[i]);
         }
+//        ArrayList <Integer>  array  =new ArrayList<>();
+        Map<String, Integer> mpp = new HashMap<>();
+        mpp.put("vivek", 10);
+        mpp.put("prapti" , 9);
+        mpp.put("prson" , 11);
+
+
+
+        System.out.println(mpp.keySet());
+        System.out.println(mpp);
+
+
     }
 }
