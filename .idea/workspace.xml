@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="multiple catch blocks and priority">
+    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="exception handling using throw">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Application.exception2.executor": "Run",
     "Application.exception3.executor": "Run",
     "Application.funs.executor": "Run",
+    "Application.implemenation_of_packag.executor": "Run",
     "Application.try_catch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -108,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728823152341</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exception handling using throw">
+      <option name="closed" value="true" />
+      <created>1728824530158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728824530158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +135,7 @@
     <MESSAGE value="first git commit" />
     <MESSAGE value="try and catch block  in java" />
     <MESSAGE value="multiple catch blocks and priority" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiple catch blocks and priority" />
+    <MESSAGE value="exception handling using throw" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception handling using throw" />
   </component>
 </project>
