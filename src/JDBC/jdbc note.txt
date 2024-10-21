@@ -1,0 +1,47 @@
+steps to connect with db
+
+1. import the package // need a phone
+2. laod & register the driver // need a sim card
+3. establish the connection // dial a number
+4. create the statement; //think what to say
+5. execute the query // speak
+6. process result //respone from other end
+7.close the connection
+
+
+giving eg of calling
+
+packege -- java.sql.*
+
+forName() to register driver
+
+statement:
+ statemenet
+ prepared st.
+ collable st.
+
+
+import java.sql.*;
+ main(){
+ //loadd and regester the driver
+ Class.forname("com.mysqljdbcdriver");
+ // to get connection
+ connection con = DriverManager.getconnection("url of database","username of db","password of db");
+ statemenet st  =com.createStatement();
+result rs = st.execute("select* form studnet");
+
+
+//to shift frim ftist location to nexxt line
+rs.next;
+//to get
+rs.get(1) + " '" + rs.getstring(2) // 2nd col
+
+ //data
+ // 1    "vivek"
+ // 2     "prapti"
+ // 3     "intellij"
+
+ while(rs.next(){
+ sout(rs.get(1) + " '" + rs.getstring(2));
+ }
+ }
