@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="collections">
+    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="JDBC CONNECTION">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.date_time.executor": "Run",
-    "Application.exception2.executor": "Run",
-    "Application.exception3.executor": "Run",
-    "Application.funs.executor": "Run",
-    "Application.implemenation_of_packag.executor": "Run",
-    "Application.jdbc_demo.executor": "Run",
-    "Application.polymorphism.executor": "Run",
-    "Application.try_catch.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Downloads/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.date_time.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exception2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exception3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.funs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.implemenation_of_packag.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jdbc_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.try_catch.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Downloads/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -160,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729260931751</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JDBC CONNECTION">
+      <option name="closed" value="true" />
+      <created>1729512257982</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729512257982</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +189,8 @@
     <MESSAGE value="packages in javaa implementation" />
     <MESSAGE value="abstract classes / base class pointer _ derived class object" />
     <MESSAGE value="collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections" />
+    <MESSAGE value="JDBC CONNECTION" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBC CONNECTION" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
