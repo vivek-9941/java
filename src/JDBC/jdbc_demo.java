@@ -71,7 +71,6 @@ public class jdbc_demo {
         //rs is a set that stores the set
 
         //by default the pointer is before the starting of the table
-
         ResultSet rs =  st.executeQuery("SELECT * FROM worker");
        while( rs.next() ) {
            String name = rs.getString("FIRST_NAME") +" "+rs.getString( "LAST_NAME") +" "+ rs.getInt("SALARY");
