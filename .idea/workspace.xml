@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="JDBC CONNECTION example for another database temp">
+    <list default="true" id="a64afc3b-6381-49d0-8e40-d9acfbd92971" name="Changes" comment="JDBC CONNECTION FETCH AND INSERT IN DB">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JDBC/jdbc_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/jdbc_demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +60,7 @@
     "Application.jdbc_demo.executor": "Run",
     "Application.polymorphism.executor": "Run",
     "Application.try_catch.executor": "Run",
+    "Application.use_of_forname.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -181,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729514319505</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="JDBC CONNECTION FETCH AND INSERT IN DB">
+      <option name="closed" value="true" />
+      <created>1729605477902</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729605477902</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,7 +212,8 @@
     <MESSAGE value="collections" />
     <MESSAGE value="JDBC CONNECTION" />
     <MESSAGE value="JDBC CONNECTION example for another database temp" />
-    <option name="LAST_COMMIT_MESSAGE" value="JDBC CONNECTION example for another database temp" />
+    <MESSAGE value="JDBC CONNECTION FETCH AND INSERT IN DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBC CONNECTION FETCH AND INSERT IN DB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
