@@ -18,9 +18,9 @@ public class use_of_forname {
 
         //whenever we work weith jdbc code
         //register driver
-        DriverManager.registerDriver(new com.mysql.jdbc.Driver());
+//        DriverManager.registerDriver(new com.mysql.jdbc.Driver());
         //instead of this we use this as they are same
-        Class.forName("com.mysql.jdbc.Driver()");
+        Class.forName("com.mysql.jdbc.Driver");
             //because the driver contains a statoc block which contwains the same thing
         //on loading tthe static bolk will be executed
         
